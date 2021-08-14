@@ -6,3 +6,4 @@ const { x, y } = find(input);
 
 console.log(x, y);
 console.log(x + y);
+

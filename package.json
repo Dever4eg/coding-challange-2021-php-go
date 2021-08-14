@@ -7,6 +7,7 @@
     "task1": "node task1/index.js",
     "task2": "node task2/index.js",
     "task3": "node task3/index.js",
+    "task4": "node task4/index.js",
     "test": "./test.sh"
   },
   "author": "",
